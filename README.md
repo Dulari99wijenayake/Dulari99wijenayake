@@ -16,10 +16,6 @@
 - ReseachGate: https://www.researchgate.net/profile/Dulari-Wijenayake
 
 *"Transforming ideas into code, and code into real-world impact."*
-
-![Dulari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulari99wijenayake&show_icons=true&theme=radical)
-
-
 <!--
 **Dulari99wijenayake/Dulari99wijenayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
