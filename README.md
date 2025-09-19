@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I’m Dulari Wijenayake 👋
+💻 BSc (Hons) in Computer Science | Full-Stack Developer | MERN |  
+📍 Colombo, Sri Lanka
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### 📫 Contact
+- LinkedIn: [Dulari LinkedIn](https://www.linkedin.com/in/dulariwijenayake)
+- Medium: https://medium.com/@dulariwijenayake
+- ReseachGate: https://www.researchgate.net/profile/Dulari-Wijenayake
+
+*"Transforming ideas into code, and code into real-world impact."*
+
+![Dulari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulari99wijenayake&show_icons=true&theme=radical)
+
 
 <!--
 **Dulari99wijenayake/Dulari99wijenayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
