@@ -15,6 +15,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![Dulari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulari99wijenayake&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulari99wijenayake&layout=compact&theme=radical)
+
 ### 📫 Contact
 - LinkedIn: [Dulari LinkedIn](https://www.linkedin.com/in/dulariwijenayake)
 - Medium: https://medium.com/@dulariwijenayake
