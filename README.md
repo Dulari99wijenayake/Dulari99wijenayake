@@ -2,7 +2,7 @@
 💻 BSc (Hons) in Computer Science | Full-Stack Developer | MERN |  
 📍 Tangalle, Sri Lanka
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -15,11 +15,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Dulari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulari99wijenayake&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulari99wijenayake&layout=compact&theme=radical)
-
-### 📫 Contact
-- LinkedIn: [Dulari LinkedIn](https://www.linkedin.com/in/dulariwijenayake)
+### Contact
+- LinkedIn: https://www.linkedin.com/in/dulari-wijenayake
 - Medium: https://medium.com/@dulariwijenayake
 - ReseachGate: https://www.researchgate.net/profile/Dulari-Wijenayake
 
