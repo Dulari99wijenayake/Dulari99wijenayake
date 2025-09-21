@@ -2,8 +2,9 @@
 BSc (Hons) in Computer Science | Full-Stack Developer | MERN |  
 Tangalle, Sri Lanka
 
-🎓 I am a final year BSc (Hons) Computer Science student in the Department of Computer & Data Science, Faculty of Computing, NSBM Green University, Sri Lanka.  
-💻 A full-stack developer with hands-on experience in the MERN stack, building web applications that are efficient, scalable, and user-friendly. In addition, I have a keen interest in AI and Data Science, and I am passionate about learning new technologies, contributing to innovative projects, and applying my skills to create impactful solutions.
+🎓 I am a final year BSc (Hons) Computer Science undergraduate student in the Department of Computer & Data Science, Faculty of Computing, NSBM Green University, Sri Lanka.  
+
+💻 A full stack developer with hands on experience in the MERN stack, building web applications that are efficient, scalable, and user friendly. In addition, I have a keen interest in AI and Data Science, and I am passionate about learning new technologies, contributing to innovative projects, and applying my skills to create impactful solutions.
 
 ### Languages & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
