@@ -1,4 +1,4 @@
-# Hi, I’m Dulari Wijenayake 👋
+# Hi👋 I’m Dulari Wijenayake
 BSc (Hons) in Computer Science | Full-Stack Developer | MERN |  
 Tangalle, Sri Lanka
 
