@@ -24,7 +24,7 @@ Tangalle, Sri Lanka
 - Medium: https://medium.com/@dulariwijenayake
 - ReseachGate: https://www.researchgate.net/profile/Dulari-Wijenayake
 
-*"Transforming ideas into code, and code into real-world impact."*
+*"Transforming ideas into code, and code into real world impact."*
 <!--
 **Dulari99wijenayake/Dulari99wijenayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
