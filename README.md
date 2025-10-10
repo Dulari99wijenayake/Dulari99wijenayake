@@ -22,6 +22,9 @@ Tangalle, Sri Lanka
 Holopin Badge
 [![An image of @dulari99wijenayake's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dulari99wijenayake)](https://holopin.io/@dulari99wijenayake)
 
+Holopin Badge
+[![An image of @dulari99wijenayake's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dulari99wijenayake)](https://holopin.io/@dulari99wijenayake)
+
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/dulari-wijenayake
 - Medium: https://medium.com/@dulariwijenayake
