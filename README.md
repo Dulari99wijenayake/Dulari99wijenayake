@@ -19,6 +19,9 @@ Tangalle, Sri Lanka
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+Holopin Badge
+[![An image of @dulari99wijenayake's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dulari99wijenayake)](https://holopin.io/@dulari99wijenayake)
+
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/dulari-wijenayake
 - Medium: https://medium.com/@dulariwijenayake
